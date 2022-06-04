@@ -1,0 +1,43 @@
+Recap:
+  Last Session
+  
+  
+  let, const
+
+  spread, 
+  Way of copy the elements reference of an array object
+  Template Literals (
+    var x = 10;
+    console.log(`Score : ${x}`) 
+  )
+
+  exception handling
+
+  try {
+    statements Your uncertain of some error popping
+  } catch () {
+    catch all the errors that would occur from executing try block
+  } finally {
+    executes these set of statements irrespective error occurence
+  }
+
+  Rest countries and Weather API
+  
+
+Topics:
+
+  ES5 vs ES6
+
+  rest operator,
+  array object destructuring
+  arrow functions
+
+  
+  Pratice some problems on the JSON
+  https://medium.com/@reach2arunprakash/guvi-zen-code-sprint-javascript-practice-problems-in-json-objects-and-list-49ac3356a8a5
+
+  
+  intro to OOPS  
+
+
+
